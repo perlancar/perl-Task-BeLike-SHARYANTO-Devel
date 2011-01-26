@@ -24,6 +24,12 @@ want to imitate my developing environment.
 
 =pkgroup Included modules
 
+=pkg App::cpanminus
+
+=pkg App::FatPacker
+
+=pkg CPAN::Mini
+
 =pkg Devel::EndStats
 
 =pkg Dist::Zilla
@@ -37,6 +43,8 @@ want to imitate my developing environment.
 =pkg Dist::Zilla::Plugin::ReadmeFromPod
 
 =pkg Dist::Zilla::Plugin::TaskWeaver
+
+=pkg Module::CoreList
 
 =cut
 

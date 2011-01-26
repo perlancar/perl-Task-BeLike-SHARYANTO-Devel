@@ -1,5 +1,11 @@
 Revision history for Task-BeLike-SHARYANTO-Apps
 
+0.02    2011-01-26
+
+        Add from ::Apps: App::cpanminus, App::FatPacker, CPAN::Mini,
+        Module::CoreList
+
+
 0.01    2011-01-24
 
         First release.
