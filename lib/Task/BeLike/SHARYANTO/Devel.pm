@@ -38,6 +38,8 @@ want to imitate my developing environment.
 
 =pkg Dist::Zilla::Plugin::CompileTests
 
+=pkg Dist::Zilla::Plugin::InstallRelease
+
 =pkg Dist::Zilla::Plugin::PodWeaver
 
 =pkg Dist::Zilla::Plugin::ReadmeFromPod
