@@ -44,6 +44,8 @@ want to imitate my developing environment.
 
 =pkg Dist::Zilla::Plugin::ReadmeFromPod
 
+=pkg Dist::Zilla::Plugin::Run
+
 =pkg Dist::Zilla::Plugin::TaskWeaver
 
 =pkg Module::CoreList
