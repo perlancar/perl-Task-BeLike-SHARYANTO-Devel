@@ -1,5 +1,9 @@
 Revision history for Task-BeLike-SHARYANTO-Apps
 
+0.03    2011-05-18
+
+        Add Dist::Zilla::Plugin::Run, Dist::Zilla::Plugin::InstallRelease.
+
 0.02    2011-01-26
 
         Add from ::Apps: App::cpanminus, App::FatPacker, CPAN::Mini,
