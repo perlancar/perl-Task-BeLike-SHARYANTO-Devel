@@ -28,6 +28,8 @@ want to imitate my developing environment.
 
 =pkg App::FatPacker
 
+=pkg Class::Autouse
+
 =pkg CPAN::Mini
 
 =pkg Devel::EndStats
