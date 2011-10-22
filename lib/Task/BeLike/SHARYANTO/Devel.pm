@@ -38,9 +38,11 @@ want to imitate my developing environment.
 
 =pkg Dist::Zilla::Plugin::CheckChangeLog
 
-=pkg Dist::Zilla::Plugin::CompileTests
+=pkg Dist::Zilla::Plugin::Test::Compile
 
 =pkg Dist::Zilla::Plugin::InstallRelease
+
+=pkg Dist::Zilla::Plugin::OurPkgVersion
 
 =pkg Dist::Zilla::Plugin::PodWeaver
 
