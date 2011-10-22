@@ -1,5 +1,10 @@
 Revision history for Task-BeLike-SHARYANTO-Apps
 
+0.04    2011-10-22
+
+        Add DZP::Test::Compile, DZP::OurPKgVersion, Class::Autouse.
+
+
 0.03    2011-05-18
 
         Add Dist::Zilla::Plugin::Run, Dist::Zilla::Plugin::InstallRelease.

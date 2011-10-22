@@ -1,4 +1,8 @@
 package Task::BeLike::SHARYANTO::Devel;
+
+# VERSION
+
+1;
 # ABSTRACT: Install modules currently used in SHARYANTO's developing environment
 
 =head1 DESCRIPTION
@@ -56,4 +60,3 @@ want to imitate my developing environment.
 
 =cut
 
-1;
