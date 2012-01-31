@@ -32,6 +32,10 @@ want to imitate my developing environment.
 
 =pkg App::FatPacker
 
+=pkg App::perlbrew
+
+=pkg App::perlzonji
+
 =pkg Class::Autouse
 
 =pkg CPAN::Mini
