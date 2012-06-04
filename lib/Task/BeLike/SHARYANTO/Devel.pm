@@ -44,21 +44,7 @@ want to imitate my developing environment.
 
 =pkg Dist::Zilla
 
-=pkg Dist::Zilla::Plugin::CheckChangeLog
-
-=pkg Dist::Zilla::Plugin::Test::Compile
-
-=pkg Dist::Zilla::Plugin::InstallRelease
-
-=pkg Dist::Zilla::Plugin::OurPkgVersion
-
-=pkg Dist::Zilla::Plugin::PodWeaver
-
-=pkg Dist::Zilla::Plugin::ReadmeFromPod
-
-=pkg Dist::Zilla::Plugin::Run
-
-=pkg Dist::Zilla::Plugin::TaskWeaver
+=pkg Dist::Zilla::PluginBundle::SHARYANTO
 
 =pkg Module::CoreList
 
