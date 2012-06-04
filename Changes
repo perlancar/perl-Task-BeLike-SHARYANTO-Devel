@@ -1,5 +1,10 @@
 Revision history for Task-BeLike-SHARYANTO-Apps
 
+0.05    2012-06-04
+
+        Add DZPb::SHARYANTO, remove direct dep on other DZP:: modules.
+
+
 0.04    2011-10-22
 
         Add DZP::Test::Compile, DZP::OurPKgVersion, Class::Autouse.
