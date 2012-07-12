@@ -59,8 +59,6 @@ Todo/futures:
 
 =pkg Dist::Zilla
 
-=pkg Dist::Zilla::PluginBundle::SHARYANTO
-
 =pkg Module::CoreList
 
 =cut
