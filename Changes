@@ -1,25 +1,31 @@
 Revision history for Task-BeLike-SHARYANTO-Apps
 
-0.05    2012-06-04
+0.06    2012-07-12 (SHARYANTO)
+
+        Remove my own modules (handled by TBL::SHARYANTO::Authored, add
+        Data::Dump, Devel::NYTProf, Carp::Always::Color.
+
+
+0.05    2012-06-04 (SHARYANTO)
 
         Add DZPb::SHARYANTO, remove direct dep on other DZP:: modules.
 
 
-0.04    2011-10-22
+0.04    2011-10-22 (SHARYANTO)
 
         Add DZP::Test::Compile, DZP::OurPKgVersion, Class::Autouse.
 
 
-0.03    2011-05-18
+0.03    2011-05-18 (SHARYANTO)
 
         Add Dist::Zilla::Plugin::Run, Dist::Zilla::Plugin::InstallRelease.
 
-0.02    2011-01-26
+0.02    2011-01-26 (SHARYANTO)
 
         Add from ::Apps: App::cpanminus, App::FatPacker, CPAN::Mini,
         Module::CoreList
 
 
-0.01    2011-01-24
+0.01    2011-01-24 (SHARYANTO)
 
         First release.
