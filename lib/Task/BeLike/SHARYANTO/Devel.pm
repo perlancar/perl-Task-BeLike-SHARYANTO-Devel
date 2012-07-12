@@ -14,17 +14,26 @@ Not included are modules:
 
 =item * already in 5.10 core;
 
-=item * used in applications (see L<Task::BeLike::SHARYANTO::Apps>);
+=item * written by me (see L<Task::BeLike::SHARYANTO::Authored>);
 
-=item * required by my very specific applications;
-
-=item * required by my old/obsolete applications;
+=item * used in my applications (see L<Task::BeLike::SHARYANTO::Apps>);
 
 =back
 
 The purpose of this distribution is to make it easy to setup my developing
 environment. Thus, this distribution is probably only useful to me or people who
 want to imitate my developing environment.
+
+Todo/futures:
+
+=over 4
+
+=item * carton
+
+=item * Pinto
+
+=back
+
 
 =pkgroup Included modules
 
@@ -36,11 +45,17 @@ want to imitate my developing environment.
 
 =pkg App::perlzonji
 
+=pkg Carp::Always
+
+=pkg Carp::Always::Color
+
 =pkg Class::Autouse
 
 =pkg CPAN::Mini
 
-=pkg Devel::EndStats
+=pkg Data::Dump
+
+=pkg Devel::NYTProf
 
 =pkg Dist::Zilla
 
@@ -49,4 +64,3 @@ want to imitate my developing environment.
 =pkg Module::CoreList
 
 =cut
-
