@@ -37,6 +37,8 @@ Todo/futures:
 
 =pkgroup Included modules
 
+=pkg App::cpanlistchanges
+
 =pkg App::cpanminus
 
 =pkg App::FatPacker
